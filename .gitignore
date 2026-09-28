@@ -1,0 +1,6 @@
+config.properties
+*.db
+target/
+out/
+.idea/
+*.iml

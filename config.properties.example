@@ -1,0 +1,5 @@
+# Copy this file to config.properties (which is git-ignored) and edit if needed.
+# SQLite needs no username/password; they are here for MySQL/PostgreSQL users.
+db.url=jdbc:sqlite:inventory.db
+db.user=
+db.password=
